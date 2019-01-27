@@ -11,6 +11,7 @@ int main() {
 	printf("the size of int* is %lu \n ",sizeof(int*));
 	printf("the size of char* is %lu \n", sizeof(char*));
 	printf("the size of long* is %lu \n", sizeof(long*));
+	printf("the is the asignment \n");
 	return 0;
 
 }
